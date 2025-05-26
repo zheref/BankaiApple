@@ -1,0 +1,15 @@
+{
+  "originHash" : "e08d52ef60cf9269c249162f953fad0473dc9d89a7a205d1a4adbaf4f13768be",
+  "pins" : [
+    {
+      "identity" : "bankaicore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zheref/BankaiCore",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b056f5c4bd393ed4348a677e39f16a535bad65d5"
+      }
+    }
+  ],
+  "version" : 3
+}
